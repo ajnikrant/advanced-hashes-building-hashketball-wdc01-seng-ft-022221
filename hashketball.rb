@@ -22,7 +22,7 @@ def game_hash()
     :away => {
       :team_name => "",
       :colors => [],
-      :players => [
+      players: [
         :player_name=>[],
         :number=>[],
         :shoe=>[],
@@ -35,5 +35,7 @@ def game_hash()
       ]
     }
   }
+
+  # game_hash.each do |team_origin, 
 # binding.pry
 end
