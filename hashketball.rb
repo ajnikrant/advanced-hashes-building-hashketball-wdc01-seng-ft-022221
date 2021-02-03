@@ -5,7 +5,7 @@ def game_hash()
   new_hash =
   {
     :home => {
-      :team_name => "",
+      :team_name,
       :colors => [],
       :players => [
         :player_name,
@@ -20,7 +20,7 @@ def game_hash()
       ]
     },
     :away => {
-      :team_name => "",
+      :team_name,
       :colors => [],
       :players => [
         :player_name,
