@@ -8,7 +8,7 @@ def game_hash()
       :team_name => "",
       colors: [],
       players: [
-        :player_name=>["Alan Anderson", "Reggie Evans", "Brook Lopez", "Mason Plumlee", "Jason Terry"],
+        :player_name=>[alan_anderson, reggie_evans, brook_lopez, mason_plumlee, jason_terry],
         :number=>[],
         :shoe=>[],
         :points=>[],
