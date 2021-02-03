@@ -36,6 +36,7 @@ def game_hash()
     }
   }
 
+game_hash[:home][:players][:player_name]= "Alan Anderson"
 
 
 end
