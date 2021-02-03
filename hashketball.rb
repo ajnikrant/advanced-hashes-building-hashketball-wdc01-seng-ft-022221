@@ -24,7 +24,7 @@ def game_hash()
       :colors => [],
       :players => [
         :player_name,
-        :number => ("".to_i),
+        :number,
         :shoe,
         :points,
         :rebounds,
