@@ -36,12 +36,12 @@ def game_hash()
     }
   }
 
-  game_hash.each do |team, team_info|
-      team_info[:players].each do |player|
-        if player[:player_name] == player_search
-          return player_name.upcase
-        end
-      end
+  # game_hash.each do |team, team_info|
+  #     team_info[:players].each do |player|
+  #       if player[:player_name] == player_search
+  #         return player_name.upcase
+  #       end
+  #     end
     end
 
 end
