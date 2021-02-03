@@ -40,5 +40,6 @@ def game_hash()
       team_info[:players].each do |player|
         if player[:player_name] == player_search
           return player_name.upcase
+        end
 
 end
