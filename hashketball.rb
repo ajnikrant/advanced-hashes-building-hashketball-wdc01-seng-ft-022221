@@ -8,15 +8,14 @@ def game_hash()
       :team_name => "",
       colors: [],
       players: [
-        :player_name=>[alan_anderson],
-        :number=>[],
-        :shoe=>[],
-        :points=>[],
-        :rebounds=>[],
-        :assists=>[],
-        :steals=>[],
-        :blocks=>[],
-        :slam_dunks=>[]
+        :player_name=>["Alan Anderson"],
+        :number=>[0],
+        :shoe=>[16],
+        :points=>[22],
+        :rebounds=>[12],
+        :assists=>[12],
+        :steals=>[3],
+        :blocks=>[1],
       ]
     },
     :away => {
