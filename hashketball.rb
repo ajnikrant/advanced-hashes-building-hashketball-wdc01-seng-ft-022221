@@ -41,5 +41,6 @@ def game_hash()
         if player[:player_name] == player_search
           return player_name.upcase
         end
+      end
 
 end
