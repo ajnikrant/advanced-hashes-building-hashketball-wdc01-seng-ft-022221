@@ -2,7 +2,7 @@
 
 require 'pry'
 def game_hash()
-  new_hash =
+  game_hash =
   {
     :home => {
       :team_name => "",
@@ -35,4 +35,7 @@ def game_hash()
       ]
     }
   }
+
+
+
 end
