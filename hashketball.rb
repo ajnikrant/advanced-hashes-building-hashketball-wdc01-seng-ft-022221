@@ -9,14 +9,14 @@ def game_hash()
       :colors => [],
       :players => [
         player_name,
-        number,
-        shoe,
-        points,
-        rebounds,
-        assists,
-        steals,
-        blocks,
-        slam_dunks
+        :number,
+        :shoe,
+        :points,
+        :rebounds,
+        :assists,
+        :steals,
+        :blocks,
+        :slam_dunks
       ]
     },
     :away => {
