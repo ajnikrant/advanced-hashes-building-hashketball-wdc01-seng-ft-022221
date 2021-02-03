@@ -36,6 +36,6 @@ def game_hash()
     }
   }
 
-  # game_hash.each do |team_origin, 
+  # game_hash.each do |team_origin,
 # binding.pry
 end
