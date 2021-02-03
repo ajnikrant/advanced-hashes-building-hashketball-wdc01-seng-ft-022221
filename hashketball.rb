@@ -35,5 +35,7 @@ def game_hash()
       ]
     }
   }
+
+  game_hasn [:home][:players][:player_name]= [alan_anderson]
 # binding.pry
 end
